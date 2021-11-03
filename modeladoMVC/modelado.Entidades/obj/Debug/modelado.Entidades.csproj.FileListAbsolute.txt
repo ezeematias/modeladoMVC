@@ -1,0 +1,6 @@
+C:\Users\peque\Desktop\NEORIS\modeladoMVC\modeladoMVC\modelado.Entidades\bin\Debug\modelado.Entidades.dll
+C:\Users\peque\Desktop\NEORIS\modeladoMVC\modeladoMVC\modelado.Entidades\bin\Debug\modelado.Entidades.pdb
+C:\Users\peque\Desktop\NEORIS\modeladoMVC\modeladoMVC\modelado.Entidades\obj\Debug\modelado.Entidades.csprojAssemblyReference.cache
+C:\Users\peque\Desktop\NEORIS\modeladoMVC\modeladoMVC\modelado.Entidades\obj\Debug\modelado.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\peque\Desktop\NEORIS\modeladoMVC\modeladoMVC\modelado.Entidades\obj\Debug\modelado.Entidades.dll
+C:\Users\peque\Desktop\NEORIS\modeladoMVC\modeladoMVC\modelado.Entidades\obj\Debug\modelado.Entidades.pdb
